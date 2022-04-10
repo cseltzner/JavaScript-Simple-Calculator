@@ -291,7 +291,7 @@ function onKeyPress(e) {
         case "/":
             onDivideClick();
             break;
-        case "=":
+        case "Enter":
             onEqualClicked();
             break;
         default:
